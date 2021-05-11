@@ -1,1 +1,1 @@
-console.log(Deno.args)
+console.log(Deno.args);
